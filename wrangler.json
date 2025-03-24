@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "orange-frog-e1d6",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "be76836d-16a5-4d0c-8b8e-05ab9760a132",
+      "database_name": "hidden-block-0439-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
